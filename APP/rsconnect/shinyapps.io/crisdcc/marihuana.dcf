@@ -1,0 +1,12 @@
+name: marihuana
+title: marihuana
+username:
+account: crisdcc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1228858
+bundleId: 2436126
+url: https://crisdcc.shinyapps.io/marihuana/
+when: 1569217543.7902
+asMultiple: FALSE
+asStatic: FALSE
